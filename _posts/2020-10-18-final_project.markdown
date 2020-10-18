@@ -1,0 +1,8 @@
+---
+layout: post
+title:      "FINAL PROJECT"
+date:       2020-10-18 22:32:03 +0000
+permalink:  final_project
+---
+
+That was the fastest 5 months in my life, I can't believe it. I am so greatful to have finished successfully! My final app is just the beginning of something great. I made a Lost and Found Pet Edition Website, most sites like this is specificly by state, mine is for anywhere and everywhere. I did this because it can be very easy to just hope right over to a different state if you live close to a boarder like I do. This just gives you a better change of finding you fur baby. I do want to expand more on this site such as add pictures and more styling, but I am pretty happy with how it turned out for my project review. It is very easy to navagate and find the pet you are looking for or to get on there and add a pet you have found really fast and easy. I used React to build this on the front end and I have to tell you it was a hard one for sure. Switching between language to language is something I am still getting used to but practice makes perfect!! I have learned in React since it is a lot of back and forth, it can be easy to get lost in your code or break something from doing something else in a different file. I like to read over my code line by line and read it how the computer reads it and that helps me find my way through it all. I can say that it is not my favorite language yet, but do see it being in the future as I keep working with it. :) My goal is to make this site public and help all of the fur babies around the world. I am so happy that I went to this school as I know it will take me so far in life! Look out internet world. I am here thanks to Fatiron School and TikTok.
